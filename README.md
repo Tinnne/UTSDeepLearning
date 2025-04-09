@@ -49,5 +49,6 @@ Assigned Task: [Questions](Questions.pdf)
 - .gitignore
 - Number1.ipynb
 - Number2.ipynb
+- Number3.ipynb
 - Questions/pdf
 - README.md
