@@ -14,6 +14,20 @@ Due: 16 April 2025
 
 Assigned Task: [Questions](Questions.pdf)
 
+### Brief Explanation
+
+1. Artificial Neural Network for Scoring Team Productivity on a Garment Prodicer
+2. Convolutional Neural Network for Osteoarthritis Classification
+3. Deep Learning Model Comprehension
+   1. YOLO vs RCNN
+   2. EfficientNet Method
+
+### Final Video
+
+1. [Video1_ANN]()
+2. [Video2_CNN]()
+3. [Video3_DLModel]()
+
 ## File Structure
 
 - Data
