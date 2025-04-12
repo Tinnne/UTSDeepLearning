@@ -52,3 +52,4 @@ Assigned Task: [Questions](Questions.pdf)
 - Number3.ipynb
 - Questions/pdf
 - README.md
+- requirements.txt
