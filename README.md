@@ -30,7 +30,9 @@ NIM: 2702229232
    - pip install -r requirements.txt
 
 \*make sure that anaconda prompt is opened on the same folder where requirements.txt existed.\
-\*another alternative is to copy requirements.txt to the folder where anaconda prompt is being opened 3. File Manager
+\*another alternative is to copy requirements.txt to the folder where anaconda prompt is being opened
+
+3. File Manager
 
 - Download the **dataset b** from Dataset: [Dataset B](https://drive.google.com/drive/folders/1pThuel6dU23CLRseKzymT4oNDUECq_c6)
 - Unzip the data
