@@ -46,10 +46,13 @@ Assigned Task: [Questions](Questions.pdf)
       - Moderate
       - Normal
       - Severe
+- tuning
+  - func_tuning
+  - seq_tuning
 - .gitignore
-- Number1.ipynb
+- Number1_ProductivityPrediction.ipynb
 - Number2.ipynb
 - Number3.ipynb
-- Questions/pdf
+- Questions.pdf
 - README.md
 - requirements.txt
