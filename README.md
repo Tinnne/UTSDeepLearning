@@ -22,18 +22,20 @@ NIM: 2702229232
 ## Download Guidelines
 
 1. Terminal
-   - git clone https://github.com/Tinnne/UTSDeepLearning/tree/main
+   - git clone https://github.com/Tinnne/UTSDeepLearning
 2. Anaconda Prompt
    - conda create -n <env_name> python=3.12
    - conda activate <env_name>
    - conda install pip
    - pip install -r requirements.txt
-     \*make sure that anaconda prompt is opened on the same folder where requirements.txt existed.
-     \*another alternative is to copy requirements.txt to the folder where anaconda prompt is being opened
-3. File Manager
-   - Download the **dataset b** from Dataset: [Dataset B](https://drive.google.com/drive/folders/1pThuel6dU23CLRseKzymT4oNDUECq_c6)
-   - Unzip the data
-   - Copy the data into your folder according to the file structure below
+
+\*make sure that anaconda prompt is opened on the same folder where requirements.txt existed.\
+\*another alternative is to copy requirements.txt to the folder where anaconda prompt is being opened 3. File Manager
+
+- Download the **dataset b** from Dataset: [Dataset B](https://drive.google.com/drive/folders/1pThuel6dU23CLRseKzymT4oNDUECq_c6)
+- Unzip the data
+- Copy the data into your folder according to the file structure below
+
 4. Python Notebook
    - Select the conda environment you have created
    - Run the code
