@@ -34,9 +34,9 @@ NIM: 2702229232
 
 3. File Manager
 
-- Download the **dataset b** from Dataset: [Dataset B](https://drive.google.com/drive/folders/1pThuel6dU23CLRseKzymT4oNDUECq_c6)
-- Unzip the data
-- Copy the data into your folder according to the file structure below
+   - Download the **dataset b** from Dataset: [Dataset B](https://drive.google.com/drive/folders/1pThuel6dU23CLRseKzymT4oNDUECq_c6)
+   - Unzip the data
+   - Copy the data into your folder according to the file structure below
 
 4. Python Notebook
    - Select the conda environment you have created
