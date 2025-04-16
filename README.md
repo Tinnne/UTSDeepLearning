@@ -15,9 +15,9 @@ NIM: 2702229232
 
 ## Final Video
 
-1. [Video1_ANN]()
-2. [Video2_CNN]()
-3. [Video3_DLModel]()
+1. [Video1_ANN](https://drive.google.com/open?id=19txP4sQ_4b486wlyuTfgUewIOhlS7w0N&usp=drive_copy)
+2. [Video2_CNN](https://drive.google.com/open?id=1TJkL06z1VvQaH5UIeB8x8_AeuYgk2QKX&usp=drive_copy)
+3. [Video3_DLModel](https://drive.google.com/open?id=1qn4XWq8rXH0JEd-VfYwigXt-CbcoHp9E&usp=drive_copy)
 
 ## Download Guidelines
 
